@@ -1,54 +1,71 @@
-# Hgb 1947
+# 🛠️ **Projekt: Italienischer Hgb 1947 Kühlwagen (englische Bauart)**
 
-Kühlwagen mit Kühlboxen englischer Bauart; die Angaben (2) beziehen sich auf die Wagen mit der Nummerierung 392300-392303, die auf Wagenfahrgestelle der Bauart 1931 von Hgb umgebaut wurden.
+* **Maßstab:** Spur TT (1:120)
+* **Druckverfahren:** Resin SLA/DLP
+* **Vorbild:** Italienischer Kühlwagen mit britischen Kühlboxen, Baujahr 1947
 
-![](./pics/PXL_20250720_182013514.jpg)
 
-## Abmessungen
+## Maßstabsumrechnung (TT / 1:120)
 
-- Wagenhöhe: 3732 mm
-- Wagenbreite: 2540 mm
-- Achsstand: 4500 mm
+| Original           | 1:120 Modell |
+| ------------------ | ------------ |
+| Höhe: 3732 mm      | **31.1 mm**  |
+| Breite: 2540 mm    | **21.2 mm**  |
+| Achsstand: 4500 mm | **37.5 mm**  |
 
-## Fahrgestell
+## Drucktechnische Hinweise
 
-- Radsatz Typ NRc, Buchsen Typ RIV/TR191, Tragfedern Typ 554F/2
-- Puffer Typ RE5L, Gehäuse Typ CU5L, Ringpufferfedern
-- Diskontinuierliche Traktion mit RO-Traktionshaken
+✅ **Resin SLA/DLP Setup**
+* **Layerhöhe**: 0.025-0.05 mm für scharfe Gravuren.
+* **Orientierung**: Wagenkasten diagonal oder aufrecht, um Details an Seitenwänden zu schonen.
+* **Support**: Dünne Supports an Kanten und Graten; keine Supports auf Sichtflächen.
+* **Belichtung**: Herstellerangaben + Testwürfel prüfen (z.B. Anycubic Grey Standard Resin ca. 2.2-2.5 s / Layer).
 
-## Kasten
+## Nachbearbeitung
 
-- 4 isolierte Türen
-- 2 feste Kühlboxen
-- 6 bewegliche Bodenroste
-- 2 abnehmbare Kühlbox-Schutzwände
+1. 🔧 **Reinigung**
+    * 99% Isopropanol Bad + weiche Bürste (Resinreste in Gravuren vermeiden)
+1. 🔧 **Aushärtung**
+    * UV-Lampe 2-3 min je Seite
+    * Kein Überhärten (Bruchgefahr bei kleinen Details)
+1. 🔧 **Schleifen / Grundieren**
+    * Tamiya Fine Surface Primer (grau oder weiß)
+    * Nassschleifpapier 1000–2000 für glatte Oberflächen vor der Lackierung.
 
-## Bremse
+## Lackierung
 
-- Bremsleitung im englischen Stil
-- Handbremse mit Bodenbetätigungsstange
+#### 🎨 Farbgebung nach Vorbild
+* Wagenkasten: FS Elfenbein oder Weiß mit grauem Dach
+* Kühlboxen: Aluminium oder Silber
+* Fahrgestell: Schwarz oder Dunkelgrau
+* Airbrush empfohlen, Details mit Pinsel (Griffe, Verschlüsse)
 
-## Sonstiges
+#### 🎨 Alterung
+* Wash mit Schwarzbraun für Gravuren
+* Leichter Rost an Puffern und Federpaketen
+* Mattversiegelung (z.B. Vallejo Matt Varnish)
 
-- Durchschnittliches Eigengewicht: 14,5 t
-- Zuladung: 14 t
-- Ladevolumen: 26,5 m³
-- Grundfläche: 14 m²
-- Geschwindigkeitsklasse: 1
-- Metallrahmen
-- Isolierter Aufbau
-- Außen- und Innenblechverkleidung
-- Blechdach
-- Holzdachhimmel
-- Beweglicher Gitterrost-Unterboden
-- Ursprüngliche gebaute Menge: 246
-- Wagennummern (gerade Hunderter): 391754 – 392199
-- Voraussetzungen: C, V
+## Finale Montage
 
-## Hgb CV 392100
+* Metallachsen einsetzen
+* Puffer ankleben (ggf. mit CA-Kleber)
+* Kupplungen montieren und testen
+* Gewicht integrieren (falls Fahrbetrieb): Bleistreifen oder TT-Bleirollen, NEM-konform für Fahrverhalten
 
-Der in seinen Originalzustand zurückversetzte und mit einer Breda-Automatikbremse mit M.V.-Einrichtung ausgestattete Waggon Hgb CV 392100 befindet sich, wie aus der seitlichen Beschriftung unten rechts hervorgeht, noch in der Erprobungsphase; für den Englandverkehr ist das Fahrzeug zudem bereits mit einer Vakuumbremse ausgerüstet.
+## Erweiterungen
 
-![Hgb-CV-392100](./pics/PXL_20250720_181953219.jpg)
+#### 🔧 Zubehörteile
 
-![](./pics/DinglerFS1_VS.jpg)
+* Eimer, Milchkannen oder Kühlgut zur Inneneinrichtung (falls Türen geöffnet darstellbar)
+* Bremsleitungen und Schläuche separat modellieren/drucken
+
+#### 🔧 Beschriftung
+
+* Selbst erstellte Decals (z.B. Druck mit Weißtoner-Drucker) für FS- oder WD-Logos.
+
+Hier ist deine **kompakte, praxisorientierte Checkliste „Vor dem Modultreffen“** für deine Spur TT Resin-Güterwagenprojekte:
+
+## Weiterführende Informationen
+
+* [Qualitätsziele](quality-goals.md)
+* [Checkliste: Modultreffen Einsatzprüfung](checkliste-modultreffen-einsatzprüfung.md)
