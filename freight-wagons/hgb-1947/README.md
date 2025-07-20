@@ -1,6 +1,8 @@
-# hgb 1947
+# Hgb 1947
 
 Kühlwagen mit Kühlboxen englischer Bauart; die Angaben (2) beziehen sich auf die Wagen mit der Nummerierung 392300-392303, die auf Wagenfahrgestelle der Bauart 1931 von Hgb umgebaut wurden.
+
+![](./pics/PXL_20250720_182013514.jpg)
 
 ## Abmessungen
 
@@ -48,3 +50,5 @@ Kühlwagen mit Kühlboxen englischer Bauart; die Angaben (2) beziehen sich auf d
 Der in seinen Originalzustand zurückversetzte und mit einer Breda-Automatikbremse mit M.V.-Einrichtung ausgestattete Waggon Hgb CV 392100 befindet sich, wie aus der seitlichen Beschriftung unten rechts hervorgeht, noch in der Erprobungsphase; für den Englandverkehr ist das Fahrzeug zudem bereits mit einer Vakuumbremse ausgerüstet.
 
 ![Hgb-CV-392100](./pics/PXL_20250720_181953219.jpg)
+
+![](./pics/DinglerFS1_VS.jpg)
